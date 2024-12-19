@@ -1,3 +1,5 @@
+The data used in this program was retrieved from a zip file containing 5 text collections. The following is the information regarding the original data set:
+
 Title:  Bag of Words Data Set
 
 Abstract: This data set contains five text collections in the form of bags-of-words.
